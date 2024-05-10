@@ -1,0 +1,1 @@
+In day 70 i practice related to interface questions.
