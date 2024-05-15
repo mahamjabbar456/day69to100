@@ -1,0 +1,1 @@
+In day 72 i learn about generics in typescript.

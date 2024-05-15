@@ -1,0 +1,1 @@
+In this day i learn type assertion in typescript.

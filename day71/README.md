@@ -1,0 +1,1 @@
+In this day i learn type annotation in class , accessor modifier , getter , setter , abstract class , extends , super , static  method , static properties , polymriphism and over ride method.
